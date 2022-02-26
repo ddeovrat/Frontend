@@ -1,0 +1,31 @@
+[
+  {
+    "Id": 1,
+    "Name": "Birla House",
+    "Type": "House",
+    "Price": 12000
+  },
+  {
+    "Id": 2,
+    "Name": "Tata House",
+    "Type": "House",
+    "Price": 14000
+  },
+  {
+    "Id": 3,
+    "Name": "Jamshed House",
+    "Type": "House",
+    "Price": 120007
+  }, {
+    "Id": 4,
+    "Name": "Birla House2",
+    "Type": "House",
+    "Price": 120020
+  }, {
+    "Id": 5,
+    "Name": "Birla House 5",
+    "Type": "House",
+    "Price": 132000
+  }
+
+]
